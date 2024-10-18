@@ -39,6 +39,10 @@ To remedy this, **Topgrade** detects which tools you use and runs the appropriat
 Other systems users can either use `cargo install` or the compiled binaries from the release page.
 The compiled binaries contain a self-upgrading feature.
 
+## Supported Package Managers
+
+See [SUPPORT.md](https://github.com/topgrade-rs/topgrade/blob/main/Support.md) for supported package managers.
+
 ## Usage
 
 Just run `topgrade`.
